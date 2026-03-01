@@ -62,5 +62,5 @@ online_retail_dataset/
 3. Launch the analysis:
 
     ```bash
-    jupyter notebook notebooks/online_retail.ipynb
+    jupyter notebook online_retail.ipynb
     ```
