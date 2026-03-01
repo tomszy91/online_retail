@@ -38,9 +38,10 @@ A comprehensive analysis of a transactional dataset from a UK-based online retai
 online_retail_dataset/
 ├── data/
 │   └── online_retail_II.xlsx
-│   online_retail.ipynb
+├── online_retail.ipynb
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## Usage
