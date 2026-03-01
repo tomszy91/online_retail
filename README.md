@@ -35,7 +35,7 @@ A comprehensive analysis of a transactional dataset from a UK-based online retai
 ## Project Structure
 
 ```bash
-online_retail_dataset/
+online_retail/
 ├── data/
 │   └── online_retail_II.xlsx
 ├── online_retail.ipynb
@@ -49,8 +49,8 @@ online_retail_dataset/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tomszy91/online_retail_dataset.git
-    cd online_retail_dataset
+    git clone https://github.com/tomszy91/online_retail.git
+    cd online_retail
     ```
 
 2. Install the required dependencies:
